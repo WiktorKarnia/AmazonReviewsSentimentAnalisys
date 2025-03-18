@@ -67,7 +67,3 @@ This project focuses on performing sentiment analysis on Amazon product reviews.
    python CheckData.py
    ```
 
-
-## Requirements
-
-All required Python packages are listed in the `requirements.txt` file. Install them using the provided instructions.
